@@ -1,11 +1,5 @@
 Flask==2.0.1
-streamlit==0.83.0
 numpy==1.20.3
-<<<<<<< HEAD
 scikit-learn==0.24.2
 streamlit
 gunicorn
-=======
-scikit-learn==0.22.2
-gunicorn
->>>>>>> c7266f7eeb610a10cd97e86994b327e4ccb29ad5
